@@ -2727,3 +2727,26 @@ padding-bottom: 10px;
 
 }
 }
+@media only screen and (max-width: 350px){
+  .home-welcome{
+    height: 200px;
+  }
+  .hello-text{
+    padding-top: 1rem;
+  }
+  .text-h2{
+    width: 90%;
+    font-size: 10px;
+  }
+  .filter-button-container{
+    width: 80%;
+    padding: 1rem;
+  }
+  .filter-button{
+    width: 80%;
+  }
+  .home-button{
+    width: 70px;
+    font-size:12px;
+  }
+}
