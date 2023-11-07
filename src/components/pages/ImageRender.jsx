@@ -57,7 +57,7 @@ function ImageFilter() {
                 <span className='home-page-span'>Explore User Creativity</span>
             </h1>
             <div className='filter-button-container'>
-                <div className='filter-button-container'>
+                
                     <button
                         className={activeButton === 'all' ? 'active-button' : 'filter-button'}
                         onClick={() => handleFilter('all')}
@@ -88,7 +88,7 @@ function ImageFilter() {
                     >
                         Travel
                     </button>
-                </div>
+                
             </div>
 
             <div className="grid">
