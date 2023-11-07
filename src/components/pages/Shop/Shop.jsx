@@ -102,7 +102,7 @@ export default function Shop() {
                         </div>
                     </div>
                 </div>
-                <h1 class Name='shop-line'></h1>
+                <h1 className='shop-line'></h1>
             </section>
         </div>
     );
