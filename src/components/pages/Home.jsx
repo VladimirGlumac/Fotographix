@@ -15,7 +15,7 @@ export default function Home() {
                 <video autoPlay loop muted className="video-background">
                     <source src={bgImage} type='video/mp4' />
                 </video>
-                <h1 className='hello-text'>Wellcome to FOTOGRAPHIX</h1>
+                <h1 className='hello-text'>Welcome to FOTOGRAPHIX</h1>
                 <h2 className='text-h2'>At Fotographix, we believe that every photo tells a unique story, a personal perspective, an artistic vision. Join our vibrant community of photographers and artists!</h2>
                 <div className="home-buttons">
                     <motion.div
